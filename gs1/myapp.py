@@ -9,6 +9,3 @@ data = r.json()
 print(data)
 
 
-
-hello everyone
-
